@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Enrique Sánchez-Lozano"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Enrique Sanchez-Lozano"
 description              : &description "personal description"
