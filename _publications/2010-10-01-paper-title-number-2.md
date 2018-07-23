@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "A Functional Regression approach to Facial Landmark Tracking"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Enrique Sánchez-Lozano, Georgios Tzimiropoulos, Brais Martinez, Fernando De la Torre and Michel Valstar'
+date: 2017-08-17
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
+paperurl: 'http://esanchezlozano.github.io/files/ccr.pdf'
+citation: 'E. Sánchez-Lozano et al. (2017). &quot;A Functional Regression approach to Facial Landmark Tracking.&quot; <i>T-PAMI</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
