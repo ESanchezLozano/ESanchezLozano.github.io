@@ -14,14 +14,22 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 
 News
 ======
-(July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon.
+(July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
+
 (June 2018) - Our iCCR code has been ported and integrated into the iOS app Meo3d for virtual avatars
+
 (June 2018) - Matlab code for iCCR has been updated to the GitHub account
+
 (August 2017) - Our paper "A Functional Regression approach to Facial Landmark Tracking" has been accepted at IEEE TPAMI
+
 (May 2017) - Viva voice successfully defended
+
 (February 2017) - Our C++ version of iCCR has been integrated into the ARIA-VALUSPA platform
+
 (October 2016) - Our work on incremental face tracking using Continuous Regression (iCCR) has been presented at ECCV 2016
+
 (July 2016) - Our paper "Incremental Cascaded Continuous Regression for Real-time Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression site.
+
 
 
 
