@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the Computer Vision Lab @ University of Nottingham. I obtained my PhD degree in Computer Science in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay ~ the CVLab in Nottingham, in 2013. 
+I am a Research Fellow at the Computer Vision Lab @ University of Nottingham. I obtained my PhD degree in Computer Science in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay @ the CVLab in Nottingham, in 2013. 
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
@@ -16,7 +16,7 @@ News
 ======
 (July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
 
-(June 2018) - Our iCCR code has been ported and integrated into the iOS app Meo3d for virtual avatars
+(June 2018) - Our iCCR code has been developed and integrated into the iOS app Meo3d for virtual avatars
 
 (June 2018) - Matlab code for iCCR has been updated to the GitHub account
 
