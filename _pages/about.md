@@ -28,7 +28,7 @@ News
 
 (October 2016) - Our work on incremental face tracking using Continuous Regression (iCCR) has been presented at ECCV 2016
 
-(July 2016) - Our paper "Incremental Cascaded Continuous Regression for Real-time Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression site.
+(July 2016) - Our paper "Cascaded Continuous Regression for Real-time Incremental Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression site.
 
 
 
