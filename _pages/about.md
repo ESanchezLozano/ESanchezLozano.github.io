@@ -15,8 +15,6 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 Heatmaps for AU intensity estimation
 ======
 
-![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU12.gif)
-
 ![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU6.gif)
 
 News
