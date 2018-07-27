@@ -17,7 +17,7 @@ Heatmaps for AU intensity estimation
 
 ![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU6.gif)
 
-![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU12.gif)
+![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU12new.gif)
 
 News
 ======
