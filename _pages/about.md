@@ -17,6 +17,8 @@ Heatmaps for AU intensity estimation
 
 ![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU12.gif)
 
+![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU6.gif)
+
 News
 ======
 (July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
