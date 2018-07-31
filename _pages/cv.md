@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* MEng in Telecommunication Engineering, University of Vigo (Spain), 2009
+* MSc in Signal Theory and Communications, University of Vigo (Spain), 2011
+* PhD in Computer Science, University of Nottingham (UK), 2017
+
+Scholarships and Research Stays
+======
+* Research stays:
+    * Carnegie Mellon University, Human Sensing Lab. 2011 - 2012 (6 months)
+    * University of Nottingham, CVLab. 2013 - 2014 (5 months). Funded by Fundación Pedro Barrié.
+* Scholarships:
+    * Vice-Chancellor's Scholarship for Research Excellence (EU). University of Nottingham, 2014.
+    * School of Computer Science Scholarship. University of Nottingham, 2014.
+    * Fundación Pedro Barrié. 2013.
+    * Pre-doctoral scholarship from Galician Government (Xunta). 2013.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2017 -- ... : Research Fellow
+  * University of Nottingham
+  * Computer Vision Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2016 -- July 2017 : Research Associate
+  * University of Nottingham
+  * Computer Vision Laboratory
+  
+* April 2013 -- October 2014 : Research Associate
+  * University of Vigo
+  * Multimedia Technologies Group
+  
+* October 2009 -- April 2013 : Research & Development
+  * Gradiant
+  * Multimodal Information Area
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python & Pytorch
 
 Publications
 ======
@@ -42,18 +55,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * G53MLE Machine Learning. Lab Assistant.
+  * University of Nottingham
+  * Spring 2015, Spring 2016, Spring 2017, Fall 2017
   
-Service and leadership
+Reviewing
 ======
-* Currently signed in to 43 different slack teams
+  * Journals:
+    * TPAMI, Image and Vision Computing, Computer Vision and Image Understanding, Multimedia Tools and Applications, IET Information Security, IEEE-Cognitive and Developmental Systems
+  * Conferences:
+    * BMVC (2014-2018, Outstanding reviewer 2015), FG (2017-2018), ICMI (2013-2018, Best Reviewer Award 2016), ICME (2015-2018), VCIP (2015-2017, Outstanding reviewer 2016), ISM (2015, 2017)
