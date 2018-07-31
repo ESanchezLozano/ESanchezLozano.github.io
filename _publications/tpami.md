@@ -1,7 +1,7 @@
 ---
 title: "A Functional Regression approach to Facial Landmark Tracking"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/tpami
 excerpt: 'Enrique Sánchez-Lozano, Georgios Tzimiropoulos, Brais Martinez, Fernando De la Torre and Michel Valstar'
 date: 2017-08-17
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
