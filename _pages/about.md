@@ -12,7 +12,7 @@ I am a Research Fellow at the Computer Vision Lab @ University of Nottingham. I 
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
-Heatmaps for AU intensity estimation
+Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 ======
 
 ![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU6.gif)
@@ -21,11 +21,13 @@ Heatmaps for AU intensity estimation
 
 News
 ======
+(August 2018) - Code for the BMVC 2018 is now available [here](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
+
 (July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
 
 (June 2018) - Our iCCR code has been developed and integrated into the iOS app Meo3d for virtual avatars
 
-(June 2018) - Matlab code for iCCR has been updated to the GitHub account
+(June 2018) - Matlab code for iCCR has been updated to the GitHub account. You can find it [here](https://github.com/ESanchezLozano/iCCR).
 
 (August 2017) - Our paper "A Functional Regression approach to Facial Landmark Tracking" has been accepted at IEEE TPAMI
 
@@ -35,7 +37,7 @@ News
 
 (October 2016) - Our work on incremental face tracking using Continuous Regression (iCCR) has been presented at ECCV 2016
 
-(July 2016) - Our paper "Cascaded Continuous Regression for Real-time Incremental Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression site.
+(July 2016) - Our paper "Cascaded Continuous Regression for Real-time Incremental Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression [site](http://continuousregression.wordpress.com).
 
 
 
