@@ -12,6 +12,10 @@ I am a Research Fellow at the Computer Vision Lab @ University of Nottingham. I 
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
+Projects
+======
+A new [tab](https://esanchezlozano.github.io/projects/) has been added including the projects I am interested in developing. Please do contact me if you would like to take part on them. 
+
 Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 ======
 
