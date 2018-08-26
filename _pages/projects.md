@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: "Projects "
-excerpt: "Projects "
+layout: archive
+title: "projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
+redirect_from:
+  - /projects
 ---
+
+{% include base_path %}
 
 Please do contact me if you are interested in any of the following projects.
 
