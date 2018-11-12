@@ -16,7 +16,7 @@ Projects
 ======
 A new [tab](https://esanchezlozano.github.io/projects/) has been added including the projects I am interested in developing. Please do contact me if you would like to take part on them. 
 
-GANnotation: A landmark guided face to face synthesis [(code here!)](https://github.com/ESanchezLozano/GANnotation)
+GANnotation: A landmark guided face to face synthesis network [(code here!)](https://github.com/ESanchezLozano/GANnotation)
 ======
 
 <a href="https://www.youtube.com/watch?v=-8r7zexg4yg
