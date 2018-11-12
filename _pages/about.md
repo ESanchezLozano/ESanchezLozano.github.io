@@ -23,7 +23,7 @@ GANnotation: A landmark guided face to face synthesis network [(code here!)](htt
 " target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
 alt="GANnotation example" width="240" height="180" border="10" /></a>
 
-Check the pre-print paper [here](https://github.com/ESanchezLozano/ESanchezLozano.github.io/blob/master/files/1811.03492.pdf), where we propose a new loss to bridge the gap between the input and target distributions in GAN-based face synthesis
+Check the pre-print paper [here](https://esanchezlozano/files/1811.03492.pdf), where we propose a new loss to bridge the gap between the input and target distributions in GAN-based face synthesis
 
 Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 ======
@@ -34,7 +34,7 @@ Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezL
 
 News
 ======
-(November 2018) - A new pre-print is available [here](https://github.com/ESanchezLozano/ESanchezLozano.github.io/blob/master/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
+(November 2018) - A new pre-print is available [here](https://esanchezlozano/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
 
 (August 2018) - Code for the BMVC 2018 is now available [here](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 
