@@ -16,6 +16,15 @@ Projects
 ======
 A new [tab](https://esanchezlozano.github.io/projects/) has been added including the projects I am interested in developing. Please do contact me if you would like to take part on them. 
 
+GANnotation: A landmark guided face to face synthesis [(code here!)](https://github.com/ESanchezLozano/GANnotation)
+======
+
+<a href="https://www.youtube.com/watch?v=-8r7zexg4yg
+" target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
+alt="GANnotation example" width="240" height="180" border="10" /></a>
+
+Check the pre-print paper [here](https://github.com/ESanchezLozano/ESanchezLozano.github.io/blob/master/files/1811.03492.pdf), where we propose a new loss to bridge the gap between the input and target distributions in GAN-based face synthesis
+
 Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 ======
 
@@ -25,6 +34,8 @@ Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezL
 
 News
 ======
+(November 2018) - A new pre-print is available [here](https://github.com/ESanchezLozano/ESanchezLozano.github.io/blob/master/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
+
 (August 2018) - Code for the BMVC 2018 is now available [here](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
 
 (July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
