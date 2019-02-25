@@ -28,7 +28,7 @@ Scholarships and Research Stays
 
 Work experience
 ======
-* July 2017 -- ... : Research Fellow
+* July 2017 -- March 2019 : Research Fellow
   * University of Nottingham
   * Computer Vision Laboratory
 
