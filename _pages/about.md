@@ -12,10 +12,6 @@ From September 2016 to March, 2019, I was with the Computer Vision Lab, at the U
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
-Projects
-======
-A new [tab](https://esanchezlozano.github.io/projects/) has been added including the projects I am interested in developing. Please do contact me if you would like to take part on them. 
-
 GANnotation: A landmark guided face to face synthesis network [(code here!)](https://github.com/ESanchezLozano/GANnotation)
 ======
 
