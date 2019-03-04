@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-From September 2016 to March, 2019, I was with the Computer Vision Lab, at the University of Nottingham. I obtained my PhD degree in Computer Science from the University of Nottingham in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay @ the CVLab in Nottingham, in 2013. 
+I am a Research Scientist at the Samsung AI R&D Center in Cambridge. From September 2016 to March, 2019, I was with the Computer Vision Lab, at the University of Nottingham. I obtained my PhD degree in Computer Science from the University of Nottingham in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay @ the CVLab in Nottingham, in 2013. 
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
@@ -31,7 +31,7 @@ Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezL
 News
 ======
 
-(March 2019) - In March, 2019, I will be leaving my position at the University of Nottingham.
+(March 2019) - In March, 2019, I will join the Samsung AI Center in Cambridge, and thus I will be leaving my position at the University of Nottingham.
 
 (November 2018) - A new pre-print is available [here](https://esanchezlozano.github.io/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
 
