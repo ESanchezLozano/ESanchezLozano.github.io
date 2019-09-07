@@ -40,7 +40,7 @@ European Conference on Computer Vision **(ECCV 2016)**
 Pattern Recognition Letters 73, 19--25 **(PRL 2016)**
 
 * **Audiovisual three-level fusion for continuous estimation of Russell's emotion circumplex**  
-***Enrique Sánchez-Lozano**, Paula Lopez-Otero, Laura Docio-Fernandez, Enrique Argones-Rúa qnd José Luis Alba-Castro*  
+***Enrique Sánchez-Lozano**, Paula Lopez-Otero, Laura Docio-Fernandez, Enrique Argones-Rúa and José Luis Alba-Castro*  
 3rd ACM international workshop on Audio/visual emotion challenge **(AVEC 2013)**
 
 * **Blockwise Linear Regression for Face Alignment**  
