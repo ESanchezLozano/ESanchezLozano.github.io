@@ -24,11 +24,19 @@ British Machine Vision Conference **(BMVC 2018)**
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 40 (9), 2037--2050 **(T-PAMI 2018)**  
 
 * **Digital innovations in L2 motivation: Harnessing the power of the Ideal L2 Self**
-*Svenja Adolphs, Leigh Clark, Zoltán Dörnyei, Tony Glover, Alastair Henry, Christine Muir, **Enrique Sanchez-Lozano**, Michel Valstar*
+*Svenja Adolphs, Leigh Clark, Zoltán Dörnyei, Tony Glover, Alastair Henry, Christine Muir, **Enrique Sanchez-Lozano**, Michel Valstar*  
 System (78) 173-185 
 
 * **FERA 2017-Addressing Head Pose in the Third Facial Expression Recognition and Analysis**  
 *Michel F Valstar, **Enrique Sánchez-Lozano**, Jeffrey F Cohn, László A Jeni, Jeffrey M Girard, Zheng Zhang, Lijun Yin, Maja Pantic*  
 Automatic Face & Gesture Recognition **(FG 2017)**
+
+* **Cascaded Continuous Regression for Real-time Incremental Face Tracking**  
+***Enrique Sanchez-Lozano**, Brais Martinez, Georgios Tzimiropoulos and Michel Valstar*  
+European Conference on Computer Vision **(ECCV 2016)**
+
+* **Cascaded regression with sparsified feature covariance matrix for facial landmark detection**  
+***Enrique Sanchez-Lozano**, Brais Martinez and Michel Valstar*  
+Pattern Recognition Letters 73, 19--25 **(PRL 2016)**
 
 
