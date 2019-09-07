@@ -31,6 +31,8 @@ Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezL
 News
 ======
 
+(September 2019) - One paper accepted to NeurIPS 2019.
+
 (March 2019) - In March, 2019, I will join the Samsung AI Center in Cambridge, and thus I will be leaving my position at the University of Nottingham.
 
 (November 2018) - A new pre-print is available [here](https://esanchezlozano.github.io/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
