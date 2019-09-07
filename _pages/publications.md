@@ -23,7 +23,7 @@ British Machine Vision Conference **(BMVC 2018)**
 ***Enrique Sanchez-Lozano**, Georgios Tzimiropoulos, Brais Martinez, Fernando De la Torre and Michel Valstar*  
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 40 (9), 2037--2050 **(T-PAMI 2018)**  
 
-* **Digital innovations in L2 motivation: Harnessing the power of the Ideal L2 Self**
+* **Digital innovations in L2 motivation: Harnessing the power of the Ideal L2 Self**  
 *Svenja Adolphs, Leigh Clark, Zoltán Dörnyei, Tony Glover, Alastair Henry, Christine Muir, **Enrique Sanchez-Lozano**, Michel Valstar*  
 System (78) 173-185 **(System 2018)** 
 
