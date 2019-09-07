@@ -19,7 +19,7 @@ Neural Informacion Processing Systems **(NeurIPS 2019)**
 ***Enrique Sanchez**, Georgios Tzimiropoulos and Michel Valstar*  
 British Machine Vision Conference **(BMVC 2018)**  
 
-* **A functional regression approach to facial landmark tracking**
+* **A functional regression approach to facial landmark tracking**  
 ***Enrique Sanchez-Lozano**, Georgios Tzimiropoulos, Brais Martinez, Fernando De la Torre and Michel Valstar*  
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 40 (9), 2037--2050 **(T-PAMI 2018)**  
 
@@ -39,4 +39,15 @@ European Conference on Computer Vision **(ECCV 2016)**
 ***Enrique Sanchez-Lozano**, Brais Martinez and Michel Valstar*  
 Pattern Recognition Letters 73, 19--25 **(PRL 2016)**
 
+* **Audiovisual three-level fusion for continuous estimation of Russell's emotion circumplex**  
+***Enrique Sánchez-Lozano**, Paula Lopez-Otero, Laura Docio-Fernandez, Enrique Argones-Rúa qnd José Luis Alba-Castro*  
+3rd ACM international workshop on Audio/visual emotion challenge **(AVEC 2013)**
+
+* **Blockwise Linear Regression for Face Alignment**  
+***Enrique Sanchez-Lozano**, Enrique Argones-Rua and Jose Luis Alba-Castro*  
+British Machine Vision Conference **(BMVC 2013)**
+
+* **Continuous Regression for non-rigid face alignment**  
+***Enrique Sanchez-Lozano**, Fernando De la Torre and Daniel Gonzalez-Jimenez*  
+European Conference on Computer Vision **(ECCV 2012)**
 
