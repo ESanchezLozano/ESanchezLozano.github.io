@@ -9,7 +9,7 @@ author_profile: true
 
 * **Object landmark discovery through unsupervised adaptation**  
 _**Enrique Sanchez** and Georgios Tzimiropoulos_  
-Neural Informacion Processing Systems **(NeurIPS 2019)**  
+Neural Information Processing Systems **(NeurIPS 2019)**  
 
 * **Dynamic Facial Models for Video-based Dimensional Affect Estimation**  
 *Siyang Song, **Enrique Sanchez-Lozano**, Mani Kumar Tellamekala, Linlin Shen, Alan Johnston and  Michel Valstar*  
