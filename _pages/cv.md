@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+An updated version of my CV can be found [here](https://esanchezlozano.github.io/files/CV_short.pdf)
+
 Education
 ======
 * MEng in Telecommunication Engineering, University of Vigo (Spain), 2009
