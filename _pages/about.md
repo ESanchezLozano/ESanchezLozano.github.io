@@ -12,50 +12,96 @@ I am a Research Scientist at the Samsung AI R&D Center in Cambridge. From Septem
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
-GANnotation: A landmark guided face to face synthesis network [(code here!)](https://github.com/ESanchezLozano/GANnotation)
-======
+# Publications
 
-<a href="https://www.youtube.com/watch?v=-8r7zexg4yg
-" target="_blank"><img src="https://esanchezlozano.github.io/files/test_gannotation.gif" 
-alt="GANnotation example" width="240" height="180" border="10" /></a>
+# 2021
 
-Check the pre-print paper [here](https://esanchezlozano.github.io/files/1811.03492.pdf), where we propose a new loss to bridge the gap between the input and target distributions in GAN-based face synthesis
-
-Heatmaps for AU intensity estimation [(code here!)](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
-======
-
-![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU6.gif)
-
-![Alt Text](https://esanchezlozano.github.io/files/animated_heatmaps_AU12new.gif)
-
-News
-======
-
-(September 2019) - One paper accepted to NeurIPS 2019.
-
-(March 2019) - In March, 2019, I will join the Samsung AI Center in Cambridge, and thus I will be leaving my position at the University of Nottingham.
-
-(November 2018) - A new pre-print is available [here](https://esanchezlozano.github.io/files/1811.03492.pdf) : This paper presents a new loss to overcome the limitations of a self-consistency loss in GAN-based face synthesis
-
-(August 2018) - Code for the BMVC 2018 is now available [here](https://github.com/ESanchezLozano/Action-Units-Heatmaps)
-
-(July 2018) - One paper accepted at BMVC 2018. PyTorch code coming soon 
-
-(June 2018) - Our iCCR code has been developed and integrated into the iOS app Meo3d for virtual avatars
-
-(June 2018) - Matlab code for iCCR has been updated to the GitHub account. You can find it [here](https://github.com/ESanchezLozano/iCCR).
-
-(August 2017) - Our paper "A Functional Regression approach to Facial Landmark Tracking" has been accepted at IEEE TPAMI
-
-(May 2017) - Viva voice successfully defended
-
-(February 2017) - Our C++ version of iCCR has been integrated into the ARIA-VALUSPA platform
-
-(October 2016) - Our work on incremental face tracking using Continuous Regression (iCCR) has been presented at ECCV 2016
-
-(July 2016) - Our paper "Cascaded Continuous Regression for Real-time Incremental Face Tracking" has been accepted to ECCV 2016. Check the Continuous Regression [site](http://continuousregression.wordpress.com).
+Affective Processes: Stochastic modelling of temporal context for emotion and facial expression recognition  
+**E. Sanchez**, M. K. Tellamekala, M. Valstar, G. Tzimiropoulos   
+*IEEE Int'l Conf. on Computer Vision and Pattern Recognition (**CVPR**)*
 
 
+A transfer learning approach to heatmap regression for action unit intensity estimation  
+I. Ntinou, **E. Sanchez**, A. Bulat, M. Valstar, G. Tzimiropoulos  
+*IEEE Transactions on Affective Computing (**TAFFC**)*  
+
+
+Self-supervised learning of person-specific facial dynamics for automatic personality recognition  
+S. Song, S. Jaiswal, **E. Sanchez**, G. Tzimiropoulos, L. Shen, M. Valstar  
+*IEEE Transactions on Affective Computing (**TAFFC**)*  
+
+
+Improving memory banks for unsupervised learning with large mini-batch,consistency and hard negative mining  
+A. Bulat, **E. Sanchez-Lozano**, G. Tzimiropoulos  
+*IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*  
+
+
+# 2020
+
+Unsupervised learning of object landmarks via self-training correspondence  
+D. Mallis, **E. Sanchez**, M. Bell, G. & Tzimiropoulos  
+*Advances in Neural Information Processing Systems (**NeurIPS**)*.
+
+
+Semi-supervised facial action unit intensity estimation with contrastive learning  
+**E. Sanchez**, A. Bulat, A. Zaganidis, G. & Tzimiropoulos. 
+*Asian Conf. on Computer Vision (**ACCV**).*
+
+Unsupervised face manipulation via hallucination   
+K. Kusumam, **E. Sanchez**, G. Tzimiropoulos  
+*25th Int’l Conf. on Pattern Recognition (**ICPR**)*
+
+Self-supervised learning of dynamic representations for static images  
+S Song, **E. Sanchez**, L. Shen, M. Valstar.  
+*25th Int’l Conf. on Pattern Recognition (**ICPR**)*
+
+A recurrent cycle consistency loss for progressive face-to-face synthesis  
+**E. Sanchez**, M. Valstar  
+*IEEE Int'l Conf. on Automatic Face Gesture Recognition (**FG, Oral**)*
+
+# 2019
+
+Object landmark discovery through unsupervised adaptation  
+**E. Sanchez**, G. Tzimiropoulos  
+*Advances in Neural Information Processing Systems (**NeurIPS**)*.
+
+# 2018
+
+Joint Action Unit localisation and intensity estimation through heatmap regression  
+**E. Sanchez**, G. Tzimiropoulos, M. Valstar   
+*British Machine Vision Conf. (**BMVC**)*.
+
+A functional regression approach to facial landmark tracking  
+**E. Sanchez-Lozano**, G. Tzimiropoulos, B. Martinez, F. De la Torre, M. Valstar   
+*IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(9), 2037–2050. (**TPAMI**)*
+
+# 2017
+Fera 2017 - addressing head pose in the third facial expression recognition and analysis challenge  
+M. Valstar, **E. Sanchez-Lozano**, J. Cohn, L. Jeni, J. Girard, Z. Zhang, L. Yin, M. Pantic  
+*IEEE Int'l Conf. on Automatic Face Gesture Recognition (**FG**)*.
+
+Continuous Regression: A functional regression approach to real-time facial landmark tracking  
+**E. Sanchez-Lozano**  
+*PhD Thesis (**PhD**)*  
+
+# 2016
+Cascaded continuous regression for real-time incremental face tracking  
+**E. Sanchez-Lozano**, B. Martinez, G. Tzimiropoulos, M. Valstar   
+*European Conf. on Computer Vision (**ECCV**)*.
+
+Cascaded regression with sparsified feature covariance matrix for facial landmark detection.   
+**E. Sanchez-Lozano**, B. Martinez, M. Valstar   
+*Pattern Recognition Letters, 73, 19–25. (**PRL**)*
+
+# Pre-2016
+
+Blockwise linear regression for face alignment   
+**E. Sanchez-Lozano**, E. Argones-Rua, J. Alba-Castro, J. 
+*British Machine Vision Conf. (**BMVC** 2013)*.
+
+Continuous regression for non-rigid image alignment  
+**E. Sanchez-Lozano**, F. De la Torre, D. Gonzalez-Jimenez  
+*European Conf. on Computer Vision (**ECCV** 2012)*.
 
 
  
