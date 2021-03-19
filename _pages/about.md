@@ -39,21 +39,21 @@ A. Bulat, **E. Sanchez-Lozano**, G. Tzimiropoulos
 # 2020
 
 Unsupervised learning of object landmarks via self-training correspondence  
-D. Mallis, **E. Sanchez**, M. Bell, G. & Tzimiropoulos  
+D. Mallis, **E. Sanchez**, M. Bell, G. Tzimiropoulos  
 *Advances in Neural Information Processing Systems (**NeurIPS**)*.
 
 
 Semi-supervised facial action unit intensity estimation with contrastive learning  
-**E. Sanchez**, A. Bulat, A. Zaganidis, G. & Tzimiropoulos. 
+**E. Sanchez**, A. Bulat, A. Zaganidis, G. Tzimiropoulos.  
 *Asian Conf. on Computer Vision (**ACCV**).*
 
 Unsupervised face manipulation via hallucination   
 K. Kusumam, **E. Sanchez**, G. Tzimiropoulos  
-*25th Int’l Conf. on Pattern Recognition (**ICPR**)*
+*Int’l Conf. on Pattern Recognition (**ICPR**)*
 
 Self-supervised learning of dynamic representations for static images  
 S Song, **E. Sanchez**, L. Shen, M. Valstar.  
-*25th Int’l Conf. on Pattern Recognition (**ICPR**)*
+*Int’l Conf. on Pattern Recognition (**ICPR**)*
 
 A recurrent cycle consistency loss for progressive face-to-face synthesis  
 **E. Sanchez**, M. Valstar  
@@ -64,6 +64,10 @@ A recurrent cycle consistency loss for progressive face-to-face synthesis
 Object landmark discovery through unsupervised adaptation  
 **E. Sanchez**, G. Tzimiropoulos  
 *Advances in Neural Information Processing Systems (**NeurIPS**)*.
+
+Dynamic Facial Models for Video-based Dimensional Affect Estimation  
+S. Song, **E. Sanchez-Lozano**, M. K. Tellamekala, L. Shen, A. Johnston, M. Valstar  
+*Int'l Workshop on Computer Vision for Physiological Measurement (**ICCV’W - CVPM**)*
 
 # 2018
 
@@ -96,8 +100,12 @@ Cascaded regression with sparsified feature covariance matrix for facial landmar
 # Pre-2016
 
 Blockwise linear regression for face alignment   
-**E. Sanchez-Lozano**, E. Argones-Rua, J. Alba-Castro, J. 
+**E. Sanchez-Lozano**, E. Argones-Rua, J. Alba-Castro, J.   
 *British Machine Vision Conf. (**BMVC** 2013)*.
+
+Audiovisual three-level fusion for continuous estimation of Russell’s emotion circumplex  
+Enrique Sánchez-Lozano, Paula Lopez-Otero, Laura Docio-Fernandez, Enrique Argones-Rúa and José Luis Alba-Castro  
+*Int'l Workshop on Audio/visual Emotion Challenge (**AVEC**)*  
 
 Continuous regression for non-rigid image alignment  
 **E. Sanchez-Lozano**, F. De la Torre, D. Gonzalez-Jimenez  
