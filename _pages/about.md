@@ -16,7 +16,7 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 
 # 2021
 
-Affective Processes: Stochastic modelling of temporal context for emotion and facial expression recognition  
+[Affective Processes: Stochastic modelling of temporal context for emotion and facial expression recognition](https://esanchezlozano.github.io/files/CVPR_2021_Affective_Processes.pdf)  
 **E. Sanchez**, M. K. Tellamekala, M. Valstar, G. Tzimiropoulos   
 *IEEE Int'l Conf. on Computer Vision and Pattern Recognition (**CVPR**)*
 
