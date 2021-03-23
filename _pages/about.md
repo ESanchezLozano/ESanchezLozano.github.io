@@ -21,29 +21,29 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 *IEEE Int'l Conf. on Computer Vision and Pattern Recognition (**CVPR**)*
 
 
-A transfer learning approach to heatmap regression for action unit intensity estimation  
+[A transfer learning approach to heatmap regression for action unit intensity estimation](https://ieeexplore.ieee.org/document/9361232)  
 I. Ntinou, **E. Sanchez**, A. Bulat, M. Valstar, G. Tzimiropoulos  
 *IEEE Transactions on Affective Computing (**TAFFC**)*  
 
 
-Self-supervised learning of person-specific facial dynamics for automatic personality recognition  
+[Self-supervised learning of person-specific facial dynamics for automatic personality recognition](https://ieeexplore.ieee.org/document/9373959)  
 S. Song, S. Jaiswal, **E. Sanchez**, G. Tzimiropoulos, L. Shen, M. Valstar  
 *IEEE Transactions on Affective Computing (**TAFFC**)*  
 
 
-Improving memory banks for unsupervised learning with large mini-batch,consistency and hard negative mining  
+[Improving memory banks for unsupervised learning with large mini-batch,consistency and hard negative mining](https://www.adrianbulat.com/downloads/ICASSP2021/Improving_memory_banks_for_unsupervised_learning_with_large_minibatch_consistency_and_hard_negative_mining.pdf)    
 A. Bulat, **E. Sanchez-Lozano**, G. Tzimiropoulos  
 *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*  
 
 
 # 2020
 
-Unsupervised learning of object landmarks via self-training correspondence  
+[Unsupervised learning of object landmarks via self-training correspondence](https://papers.nips.cc/paper/2020/file/32508f53f24c46f685870a075eaaa29c-Paper.pdf)  
 D. Mallis, **E. Sanchez**, M. Bell, G. Tzimiropoulos  
 *Advances in Neural Information Processing Systems (**NeurIPS**)*.
 
 
-Semi-supervised facial action unit intensity estimation with contrastive learning  
+[Semi-supervised facial action unit intensity estimation with contrastive learning](https://openaccess.thecvf.com/content/ACCV2020/papers/Sanchez_Semi-supervised_Facial_Action_Unit_Intensity_Estimation_with_Contrastive_Learning_ACCV_2020_paper.pdf)    
 **E. Sanchez**, A. Bulat, A. Zaganidis, G. Tzimiropoulos.  
 *Asian Conf. on Computer Vision (**ACCV**).*
 
@@ -55,17 +55,17 @@ Self-supervised learning of dynamic representations for static images
 S Song, **E. Sanchez**, L. Shen, M. Valstar.  
 *Int’l Conf. on Pattern Recognition (**ICPR**)*
 
-A recurrent cycle consistency loss for progressive face-to-face synthesis  
+[A recurrent cycle consistency loss for progressive face-to-face synthesis](https://arxiv.org/abs/2004.07165)  
 **E. Sanchez**, M. Valstar  
 *IEEE Int'l Conf. on Automatic Face Gesture Recognition (**FG, Oral**)*
 
 # 2019
 
-Object landmark discovery through unsupervised adaptation  
+[Object landmark discovery through unsupervised adaptation](https://papers.nips.cc/paper/2019/file/97c99dd2a042908aabc0bafc64ddc028-Paper.pdf)  
 **E. Sanchez**, G. Tzimiropoulos  
 *Advances in Neural Information Processing Systems (**NeurIPS**)*.
 
-Dynamic Facial Models for Video-based Dimensional Affect Estimation  
+[Dynamic Facial Models for Video-based Dimensional Affect Estimation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Song_Dynamic_Facial_Models_for_Video-Based_Dimensional_Affect_Estimation_ICCVW_2019_paper.pdf)  
 S. Song, **E. Sanchez-Lozano**, M. K. Tellamekala, L. Shen, A. Johnston, M. Valstar  
 *Int'l Workshop on Computer Vision for Physiological Measurement (**ICCV’W - CVPM**)*
 
