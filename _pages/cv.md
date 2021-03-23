@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-An updated version of my CV can be found at [https://esanchezlozano.github.io/files/CV_short_Feb2021.pdf](https://esanchezlozano.github.io/files/CV_short_Feb2021.pdf)
+An updated version of my CV can be found at [https://esanchezlozano.github.io/files/CV_short_Mar2021.pdf](https://esanchezlozano.github.io/files/CV_short_Mar2021.pdf)
 
 Education
 ======
