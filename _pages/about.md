@@ -17,7 +17,7 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 # 2024
 
 [Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization](https://arxiv.org/pdf/2312.17686)  
-I. Ntinou*, **E.Sanchez***, G.Tzimiropoulos (*Equal contribution)     
+I. Ntinou^, **E.Sanchez**^, G.Tzimiropoulos (^Equal contribution)     
 *IEEE Int'l Conf. on Computer Vision and Pattern Recngonition (**CVPR**)*
 
 # 2023
