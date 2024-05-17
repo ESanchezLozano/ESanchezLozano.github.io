@@ -8,11 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at the Samsung AI R&D Center in Cambridge. From September 2016 to March, 2019, I was with the Computer Vision Lab, at the University of Nottingham. I obtained my PhD degree in Computer Science from the University of Nottingham in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay @ the CVLab in Nottingham, in 2013. 
+Since 2019 I am with the Samsung AI Center -- Cambridge, where I hold a role of Senior Research Scientist. From September 2016 to March, 2019, I was with the Computer Vision Lab, at the University of Nottingham. I obtained my PhD degree in Computer Science from the University of Nottingham in 2017, with a thesis on Continuous Regression for Face Tracking. In my previous life, I obtained my MSc in Signal Theory and Communications and my MEng in Telecommunications Engineering from the University of Vigo (Spain), in 2011 and 2009, respectively (GPA 8.0/10.0). I visited the Human Sensing Lab @ CMU for 6 months in 2011. My PhD was partially funded by the Vice-Chancellor's Scholarship for Research Excellence, as well as by the School of Computer Science scholarship. Prior to this, I received a scholarship from the Fundación Pedro Barrié, to do a research stay @ the CVLab in Nottingham, in 2013. 
 
 My research interests are on the use of Deep Learning techniques for Facial Expression Recognition, as well as the fundamental theory behind the recent developments in generative methods using Deep Learning (VAEs and GANs).
 
 # Publications
+
+# 2024
+
+[Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization](https://arxiv.org/pdf/2312.17686)
+I. Ntinou*, **E.Sanchez***, G.Tzimiropoulos (*Equal contribution)
+*IEEE Int'l Conf. on Computer Vision and Pattern Recngonition (**CVPR**)*
+
+# 2023
+
+[From Keypoints to Object Landmarks via Self-Training Correspondence: A novel approach to Unsupervised Landmark Discovery](https://ieeexplore.ieee.org/abstract/document/10005822/)
+D. Mallis, **E Sanchez**, M. Bell, G. Tzimiropoulos
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*
+
+[Bayesian prompt learning for image-language model generalization](http://openaccess.thecvf.com/content/ICCV2023/html/Derakhshani_Bayesian_Prompt_Learning_for_Image-Language_Model_Generalization_ICCV_2023_paper.html)
+MM. Derakhshani, **E Sanchez**, A. Bulat, VGT da Costa, CGM. Snoek, G. Tzimiropoulos, B. Martinez
+*IEEE Int'l Conf. on Computer Vision (**ICCV**)*	
+
+[ReGen: A good Generative zero-shot video classifier should be Rewarded](http://openaccess.thecvf.com/content/ICCV2023/html/Bulat_ReGen_A_good_Generative_Zero-Shot_Video_Classifier_Should_be_Rewarded_ICCV_2023_paper.html)
+A Bulat, **E Sanchez**, B Martinez, G Tzimiropoulos
+*IEEE Int'l Conf. on Computer Vision (**ICCV**)*
+
+# 2022
+
+[Pre-training strategies and datasets for facial representation learning](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_7)
+A. Bulat, S. Cheng, J. Yang, A. Garbett, **E. Sanchez**, G. Tzimiropoulos
+*European Conf. on Computer Vision (**ECCV**)*.
 
 # 2021
 
