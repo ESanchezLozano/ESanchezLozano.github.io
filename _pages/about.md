@@ -17,27 +17,37 @@ My research interests are on the use of Deep Learning techniques for Facial Expr
 # 2024
 
 [Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization](https://arxiv.org/pdf/2312.17686)
+
 I. Ntinou*, **E.Sanchez***, G.Tzimiropoulos (*Equal contribution)
+
 *IEEE Int'l Conf. on Computer Vision and Pattern Recngonition (**CVPR**)*
 
 # 2023
 
 [From Keypoints to Object Landmarks via Self-Training Correspondence: A novel approach to Unsupervised Landmark Discovery](https://ieeexplore.ieee.org/abstract/document/10005822/)
+
 D. Mallis, **E Sanchez**, M. Bell, G. Tzimiropoulos
+
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*
 
 [Bayesian prompt learning for image-language model generalization](http://openaccess.thecvf.com/content/ICCV2023/html/Derakhshani_Bayesian_Prompt_Learning_for_Image-Language_Model_Generalization_ICCV_2023_paper.html)
+
 MM. Derakhshani, **E Sanchez**, A. Bulat, VGT da Costa, CGM. Snoek, G. Tzimiropoulos, B. Martinez
+
 *IEEE Int'l Conf. on Computer Vision (**ICCV**)*	
 
 [ReGen: A good Generative zero-shot video classifier should be Rewarded](http://openaccess.thecvf.com/content/ICCV2023/html/Bulat_ReGen_A_good_Generative_Zero-Shot_Video_Classifier_Should_be_Rewarded_ICCV_2023_paper.html)
+
 A Bulat, **E Sanchez**, B Martinez, G Tzimiropoulos
+
 *IEEE Int'l Conf. on Computer Vision (**ICCV**)*
 
 # 2022
 
 [Pre-training strategies and datasets for facial representation learning](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_7)
+
 A. Bulat, S. Cheng, J. Yang, A. Garbett, **E. Sanchez**, G. Tzimiropoulos
+
 *European Conf. on Computer Vision (**ECCV**)*.
 
 # 2021
